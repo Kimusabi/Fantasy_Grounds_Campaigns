@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="ed912deeed4bf435df1e7716ce908d893ed7da90">
+	<image>
+		<category name="FG Battle Maps" mergeid="FG Battle Maps" baseicon="0" decalicon="0">
+			<id-00013>
+				<image type="image">
+					<bitmap>BattleMap_Cave01.jpg</bitmap>
+				</image>
+			</id-00013>
+		</category>
+	</image>
+</root>

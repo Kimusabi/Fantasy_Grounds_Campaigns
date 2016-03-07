@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.1">
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide">
+		<loaded />
+		<allow />
+	</module>
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Basic Rules - Player">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD The Rise of Tiamat">
+		<loaded />
+	</module>
+	<module name="DD5E SRD Bestiary">
+		<loaded />
+	</module>
+	<module name="DD5E SRD Data">
+		<loaded />
+	</module>
+	<module name="DD5E SRD Magic Items">
+		<loaded />
+	</module>
+	<module name="FG Battle Maps">
+		<loaded />
+	</module>
+</modulestate>

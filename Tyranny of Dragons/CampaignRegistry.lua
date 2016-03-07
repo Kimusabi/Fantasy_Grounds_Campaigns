@@ -1,0 +1,3 @@
+{
+	["OptDDCL"] = "desktopdecal_ROT",
+}

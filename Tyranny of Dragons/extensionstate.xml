@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extensionstate version="3.1">
+	<extension name="5E_Language_Fonts_Wizards">
+		<loaded />
+	</extension>
+	<extension name="5E_Theme_Wizards">
+		<loaded />
+	</extension>
+	<extension name="Decal_DMG">
+		<loaded />
+	</extension>
+	<extension name="Decal_MM">
+		<loaded />
+	</extension>
+	<extension name="Decal_PHB">
+		<loaded />
+	</extension>
+	<extension name="Decal_ROT">
+		<loaded />
+	</extension>
+	<extension name="Decal_SCAG">
+		<loaded />
+	</extension>
+</extensionstate>

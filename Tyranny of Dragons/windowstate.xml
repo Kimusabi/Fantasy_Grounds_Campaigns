@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.1">
+	<window data="" class="library" pos="779,336,1479,886" />
+	<window data="" class="moduleselection" pos="779,346,1479,876" />
+	<window data="" class="tokenbag" pos="929,411,1329,811" />
+	<window data="encounter" class="encounterlist" pos="979,411,1495,811" />
+	<window data="encounter.enc_p8_00episode8_missiontothay@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_p8_01theenemyofmyenemy@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_p8_02adarkandforbiddingland@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_pz_01appendixa_monsters@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_pz_02appendixb_magicitems@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_pz_03appendixc_councilscorecard@DD The Rise of Tiamat" class="encounter" pos="605,103,1758,753" />
+	<window data="image.id-00013@FG Battle Maps" class="imagewindow" pos="504,0,1754,1223" />
+	<window data="lists.imagewindow@FG Battle Maps" class="referenceindexsorted" pos="954,386,1304,836" />
+	<window data="npc.wight@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="reference.magicitemlists.bytype@DD The Rise of Tiamat" class="reference_colindex" pos="904,386,1354,836" />
+	<window data="reference.npcdata.adultblackdragon@DD5E SRD Bestiary" class="npc" pos="899,336,1359,886" />
+	<window data="reference.npcdata.adultcopperdragon@DD5E SRD Bestiary" class="npc" pos="899,336,1359,886" />
+	<window data="reference.npclists.byletter@DD5E SRD Bestiary" class="reference_colindex" pos="904,386,1354,836" />
+	<window data="reference.npclists.npcs@DD5E SRD Bestiary" class="referenceindex" pos="954,386,1304,836" />
+
+</windowstate>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3">
+	<battle>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="DMG - Sylvan Forest Encounters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P0-08 RoT - Additional Encounters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P0-11 RoT - Villains" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P2. Episode 2: The Sea of Moving Ice" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P3. Episode 3: Varram the White" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P4. Episode 4: Neronvain" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P5. Episode 5: The Cult Strikes Back" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P7. Episode 7: Xonthal's Tower" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P8. Episode 8: Mission to Thay" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="P9. Episode 9: Tiamat's Return" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</battle>
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+	</charsheet>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="0. The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="1. Episode 1: Council of Waterdeep" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="2. Episode 2: The Sea of Moving Ice" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="3. Episode 3: Death to the Wyrmspeakers" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="4. Episode 4: Neronvain" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="5. Episode 5: The Cult Strikes Back" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="6. Episode 6: Metallic Dragons, Arise" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="7. Episode 7: Xonthal's Tower" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="8. Episode 8: Mission to Thay" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="9. Episode 9: Tiamat's Return" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Z. Appendix" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</encounter>
+	<image>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="FG Battle Maps" mergeid="FG Battle Maps" baseicon="0" decalicon="0">
+		</category>
+	</image>
+	<item>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="Adventuring Gear - DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Magic Items - DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</item>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">Common</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00016>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="NPCs - DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</npc>
+	<options>
+		<public />
+		<DDCL type="string">desktopdecal_ROT</DDCL>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<tables>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="DD DMG Chptr 1: A World of Your Own" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 2: Creating a Multiverse" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 3: Creating Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 4: Creating Nonplayer Characters" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 5: Adventure Environments" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 6: Between Adventures" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 7: Treasure" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 8: Running the Game" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr 9: Dungeon Master's Workshop" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD DMG Chptr A: Random Dungeon" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD PHB Deluxe" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD Players Handbook" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Monster Manual" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="Rise of Tiamat - Part 2" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD Basic Rules - Player" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD 5E SRD Magic Items" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD5E SRD Data" mergeid="" baseicon="2" decalicon="1">
+		</category>
+		<category name="DD 5E SRD DATA" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</tables>
+	<treasureparcels>
+		<category name="" mergeid="" baseicon="0" decalicon="0">
+		</category>
+		<category name="Parcels - DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+		</category>
+	</treasureparcels>
+</root>
