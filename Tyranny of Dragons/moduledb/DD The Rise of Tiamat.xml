@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="8b9175b531178a98a1e5340aff43887ab94b3ea4">
+	<npc>
+		<category name="NPCs - DD The Rise of Tiamat" mergeid="" baseicon="2" decalicon="1">
+			<redwizard>
+				<abilities>
+					<strength>
+						<bonus type="number">-1</bonus>
+					</strength>
+				</abilities>
+			</redwizard>
+		</category>
+	</npc>
+	<reference>
+		<imagedata>
+			<img_efreeti_jpg>
+				<image type="image">
+					<bitmap>images/Efreeti.jpg</bitmap>
+				</image>
+			</img_efreeti_jpg>
+		</imagedata>
+	</reference>
+</root>

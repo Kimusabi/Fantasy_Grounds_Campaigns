@@ -3,6 +3,9 @@
 	<window data="" class="library" pos="779,336,1479,886" />
 	<window data="" class="moduleselection" pos="779,346,1479,876" />
 	<window data="" class="tokenbag" pos="929,411,1329,811" />
+	<window data="charsheet.id-00001" class="charsheet" pos="866,311,1391,911" />
+	<window data="charsheet.id-00002" class="charsheet" pos="390,6,915,606" />
+	<window data="charsheet.id-00002" class="charsheet_classes" pos="894,461,1364,761" />
 	<window data="encounter" class="encounterlist" pos="979,411,1495,811" />
 	<window data="encounter.enc_p8_00episode8_missiontothay@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_p8_01theenemyofmyenemy@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
@@ -10,13 +13,30 @@
 	<window data="encounter.enc_pz_01appendixa_monsters@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_pz_02appendixb_magicitems@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_pz_03appendixc_councilscorecard@DD The Rise of Tiamat" class="encounter" pos="605,103,1758,753" />
+	<window data="image" class="imagelist" pos="954,411,1304,811" />
 	<window data="image.id-00013@FG Battle Maps" class="imagewindow" pos="504,0,1754,1223" />
 	<window data="lists.imagewindow@FG Battle Maps" class="referenceindexsorted" pos="954,386,1304,836" />
+	<window data="npc" class="npclist" pos="979,411,1279,811" />
+	<window data="npc.dragonfang@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="npc.dragonsoul@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="npc.dragonwing@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="npc.druid@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="npc.efreeti@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="npc.redwizard@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
 	<window data="npc.wight@DD The Rise of Tiamat" class="npc" pos="899,336,1359,886" />
+	<window data="partysheet" class="partysheet_host" pos="729,361,1529,861" />
+	<window data="reference.imagedata.img_efreeti_jpg@DD The Rise of Tiamat" class="imagewindow" pos="872,307,1386,916" />
 	<window data="reference.magicitemlists.bytype@DD The Rise of Tiamat" class="reference_colindex" pos="904,386,1354,836" />
 	<window data="reference.npcdata.adultblackdragon@DD5E SRD Bestiary" class="npc" pos="899,336,1359,886" />
 	<window data="reference.npcdata.adultcopperdragon@DD5E SRD Bestiary" class="npc" pos="899,336,1359,886" />
 	<window data="reference.npclists.byletter@DD5E SRD Bestiary" class="reference_colindex" pos="904,386,1354,836" />
 	<window data="reference.npclists.npcs@DD5E SRD Bestiary" class="referenceindex" pos="954,386,1304,836" />
+	<window data="tables" class="tablelist" pos="954,386,1776,836" />
+	<window data="tables.id-00002" class="table" pos="929,411,1329,1116" />
+	<window data="tables.id-00003" class="table" pos="929,411,1329,1195" />
+	<window data="tables.id-00004" class="table" pos="929,411,1329,1156" />
+	<window data="tables.id-00005" class="table" pos="623,710,1023,1110" />
+	<window data="tables.tab_tavernnamegenerator_firstpart@DD Dungeon Masters Guide" class="table" pos="895,70,1295,470" />
+	<window data="tables.tab_tavernnamegenerator_secondpart@DD Dungeon Masters Guide" class="table" pos="1290,71,1690,471" />
 
 </windowstate>
